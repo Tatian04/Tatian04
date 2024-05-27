@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tatiana Cabal</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.7:5500/index.html](tatiana_ing.com)
+- 👨‍💻 All of my projects are available at [tatianacabal.com](http://127.0.0.7:5500/index.html)
 
 - 💬 Ask me about **html, css y JavaScript**
 
