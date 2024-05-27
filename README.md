@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tatiana Cabal</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [tatiana_ing.com](tatiana_ing.com)
+- 👨‍💻 All of my projects are available at [http://127.0.0.7:5500/index.html](tatiana_ing.com)
 
 - 💬 Ask me about **html, css y JavaScript**
 
-- 📫 How to reach me **tatiana_ing.com**
+- 📫 How to reach me **tatianacabal03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
